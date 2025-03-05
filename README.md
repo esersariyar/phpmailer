@@ -12,10 +12,10 @@ A PHP script using **PHPMailer** to send emails with a custom sender name and em
 
 ## ⚠️ Legal Disclaimer
 This script is for **educational purposes only**. Misuse may lead to legal consequences. Use it responsibly and within legal boundaries.
-
+<!--
 ## 🎥 Video Tutorial  
 [![Watch the tutorial](https://img.youtube.com/vi/SHpa0-tQAEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=SHpa0-tQAEI)  
-
+-->
 ---
 
 ## 📌 Turkish
@@ -30,6 +30,7 @@ This script is for **educational purposes only**. Misuse may lead to legal conse
 
 ## ⚠️ Yasal Uyarı
 Bu betik yalnızca **eğitim amaçlıdır**. Kötüye kullanım yasal sonuçlar doğurabilir. Lütfen etik ve yasal çerçevede kullanın.
-
+<!--
 ## 🎥 Videolu Gösterim
 [![Watch the tutorial](https://img.youtube.com/vi/SHpa0-tQAEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=SHpa0-tQAEI)  
+-->
